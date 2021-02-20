@@ -1,3 +1,4 @@
+
 import java.util.*;
 public class SJFscheduling {
     public static void main(String args[]) {
