@@ -1,4 +1,4 @@
-// Java program for implementation of RR scheduling 
+// Java program for implementation of RR scheduling. 
 
 import java.util.*;
 import java.io.*;
